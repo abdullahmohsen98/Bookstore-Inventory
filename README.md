@@ -1,6 +1,6 @@
 # Bookstore-Inventory
 
-![Project](https://user-images.githubusercontent.com/77888340/171450285-921ce854-060b-44d9-b2fd-5e4871fc4672.PNG)
+![5](https://user-images.githubusercontent.com/77888340/171457573-571f08a6-3ab2-40fb-84dc-5697ff8cc367.png)
 
 This is an ASP.NET MVC project, Implementing CRUD Operations for managing bookstore inventory using MongoDB.<hr>
 
