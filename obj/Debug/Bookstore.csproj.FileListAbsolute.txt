@@ -1,0 +1,230 @@
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\libzstd.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\snappy32.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\snappy64.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\libsnappy64.so
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\libzstd.so
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\libsnappy64.dylib
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\libzstd.dylib
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\mongocrypt.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Bookstore.dll.config
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Bookstore.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Bookstore.pdb
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csc.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csc.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csc.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csi.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csi.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\csi.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.AppContext.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Collections.Immutable.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Console.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Globalization.Calendars.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.IO.Compression.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.IO.FileSystem.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Net.Http.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Net.Sockets.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.ValueTuple.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Xml.XPath.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\vbc.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\vbc.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\vbc.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\VBCSCompiler.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\roslyn\VBCSCompiler.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Antlr3.Runtime.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\DnsClient.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Microsoft.Web.Infrastructure.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Microsoft.Win32.Registry.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Bson.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.Core.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.Legacy.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Libmongocrypt.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Newtonsoft.Json.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\SharpCompress.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Buffers.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Memory.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Numerics.Vectors.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Security.AccessControl.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Security.Principal.Windows.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Text.Encoding.CodePages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Helpers.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Mvc.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Optimization.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Razor.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.Deployment.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.Razor.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\WebGrease.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\DnsClient.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Microsoft.Win32.Registry.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Bson.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.Core.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\MongoDB.Driver.Legacy.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Buffers.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Memory.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Numerics.Vectors.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Security.AccessControl.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Security.Principal.Windows.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Text.Encoding.CodePages.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Helpers.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Mvc.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Optimization.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.Razor.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.Deployment.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\System.Web.WebPages.Razor.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Newtonsoft.Json.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Antlr3.Runtime.pdb
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\obj\Debug\Bookstore.csproj.CopyComplete
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\obj\Debug\Bookstore.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Bookstore\obj\Debug\Bookstore.pdb
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\libzstd.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\snappy32.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\snappy64.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\libsnappy64.so
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\libzstd.so
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\libsnappy64.dylib
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\libzstd.dylib
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\mongocrypt.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Bookstore.dll.config
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Bookstore.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Bookstore.pdb
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csc.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csc.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csc.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csi.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csi.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\csi.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.AppContext.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Collections.Immutable.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Console.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Globalization.Calendars.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.IO.Compression.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.IO.FileSystem.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Net.Http.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Net.Sockets.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Reflection.Metadata.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.ValueTuple.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Xml.XPath.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\vbc.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\vbc.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\vbc.rsp
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\VBCSCompiler.exe
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\roslyn\VBCSCompiler.exe.config
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Antlr3.Runtime.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\DnsClient.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Microsoft.Web.Infrastructure.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Microsoft.Win32.Registry.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Bson.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.Core.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.Legacy.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Libmongocrypt.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Newtonsoft.Json.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\SharpCompress.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Buffers.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Memory.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Numerics.Vectors.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Security.AccessControl.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Security.Principal.Windows.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Text.Encoding.CodePages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Helpers.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Mvc.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Optimization.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Razor.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.Deployment.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.Razor.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\WebGrease.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\DnsClient.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Microsoft.Win32.Registry.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Bson.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.Core.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\MongoDB.Driver.Legacy.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Buffers.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Memory.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Numerics.Vectors.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Security.AccessControl.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Security.Principal.Windows.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Text.Encoding.CodePages.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Helpers.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Mvc.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Optimization.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.Razor.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.Deployment.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\System.Web.WebPages.Razor.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Newtonsoft.Json.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Antlr3.Runtime.pdb
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\obj\Debug\Bookstore.csproj.CopyComplete
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\obj\Debug\Bookstore.dll
+E:\.Net interviews Ques\study\apps\Mongodb\Uploading Bookstore\Bookstore-Inventory\obj\Debug\Bookstore.pdb
